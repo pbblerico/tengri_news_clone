@@ -1,0 +1,36 @@
+.header {
+    width: 100%;
+    background-color: #303133;
+    padding: 24px;
+}
+
+.header-sub-rubrics {
+    display: flex;
+    justify-content: space-between;
+    color:aliceblue;
+}
+
+li {
+    list-style-type: none;
+    display: inline-flex;
+    margin-left: 25px;
+}
+
+.tn-urgent-news-info {
+    background-color: #32a801;
+    /* font-family: Inter SemiBold; */
+    color: white;
+    font-size: 18px;
+    padding: 5px 0;
+    font-weight: bold;
+    text-align: center;
+}
+
+.news-title {
+    font-size: 44px;
+    font-weight: bold;
+}
+
+.main-content {
+    padding: 32px 24px;
+}
